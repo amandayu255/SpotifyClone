@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpotifyClone</string>
+    <string name="log_in_to_continue">Log in to continue.</string>
+</resources>
